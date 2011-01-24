@@ -1,0 +1,14 @@
+# Overview
+
+This is a python wrapper for the Bandcamp API (http://bandcamptech.wordpress.com/2010/05/15/bandcamp-api/), I have based the model after the python-twitter project, so props to those guys.
+
+Current capabilities:
+
+* 100% implementation of all API calls
+* All calls mapped to python objects
+* Able to cache calls
+
+Still needed:
+
+* Full Documentation
+* Unit Tests
